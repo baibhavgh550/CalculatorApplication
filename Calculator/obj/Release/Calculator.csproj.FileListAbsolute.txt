@@ -1,0 +1,9 @@
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\Baibhav\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
